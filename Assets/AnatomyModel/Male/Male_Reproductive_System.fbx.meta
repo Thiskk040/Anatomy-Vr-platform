@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 74989b3c031db4ad8ac68aa96be464c8
+timeCreated: 1524638179
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bulbo_Urethral_Duct
+    100004: Corpus_Spongiosum
+    100006: External_Urethral_Orifice
+    100008: Glans_Penis
+    100010: Left_Bulbo_Urethral_Gland
+    100012: Left_Corpora_Cavernosa
+    100014: Left_Epididymis
+    100016: Left_Root_Of_Penis_Crura
+    100018: Left_Seminal_Gland
+    100020: Left_Testis
+    100022: Left_Vas_Deferent_Duct
+    100024: Membranous_Urethra
+    100026: Nvicular_Fossa
+    100028: Prostate_Gland
+    100030: Right_Bulbo_Urethral_Gland
+    100032: Right_Corpora_Cavernosa
+    100034: Right_Deferent_Duct
+    100036: Right_Epididymis
+    100038: Right_Root_Of_Penis_Crura
+    100040: Right_Seminal_Gland
+    100042: Right_Testis
+    100044: Spongy_Urethra
+    400000: //RootNode
+    400002: Bulbo_Urethral_Duct
+    400004: Corpus_Spongiosum
+    400006: External_Urethral_Orifice
+    400008: Glans_Penis
+    400010: Left_Bulbo_Urethral_Gland
+    400012: Left_Corpora_Cavernosa
+    400014: Left_Epididymis
+    400016: Left_Root_Of_Penis_Crura
+    400018: Left_Seminal_Gland
+    400020: Left_Testis
+    400022: Left_Vas_Deferent_Duct
+    400024: Membranous_Urethra
+    400026: Nvicular_Fossa
+    400028: Prostate_Gland
+    400030: Right_Bulbo_Urethral_Gland
+    400032: Right_Corpora_Cavernosa
+    400034: Right_Deferent_Duct
+    400036: Right_Epididymis
+    400038: Right_Root_Of_Penis_Crura
+    400040: Right_Seminal_Gland
+    400042: Right_Testis
+    400044: Spongy_Urethra
+    2100000: A_Reproductive_System
+    2300000: Bulbo_Urethral_Duct
+    2300002: Corpus_Spongiosum
+    2300004: External_Urethral_Orifice
+    2300006: Glans_Penis
+    2300008: Left_Bulbo_Urethral_Gland
+    2300010: Left_Corpora_Cavernosa
+    2300012: Left_Epididymis
+    2300014: Left_Root_Of_Penis_Crura
+    2300016: Left_Seminal_Gland
+    2300018: Left_Testis
+    2300020: Left_Vas_Deferent_Duct
+    2300022: Membranous_Urethra
+    2300024: Nvicular_Fossa
+    2300026: Prostate_Gland
+    2300028: Right_Bulbo_Urethral_Gland
+    2300030: Right_Corpora_Cavernosa
+    2300032: Right_Deferent_Duct
+    2300034: Right_Epididymis
+    2300036: Right_Root_Of_Penis_Crura
+    2300038: Right_Seminal_Gland
+    2300040: Right_Testis
+    2300042: Spongy_Urethra
+    3300000: Bulbo_Urethral_Duct
+    3300002: Corpus_Spongiosum
+    3300004: External_Urethral_Orifice
+    3300006: Glans_Penis
+    3300008: Left_Bulbo_Urethral_Gland
+    3300010: Left_Corpora_Cavernosa
+    3300012: Left_Epididymis
+    3300014: Left_Root_Of_Penis_Crura
+    3300016: Left_Seminal_Gland
+    3300018: Left_Testis
+    3300020: Left_Vas_Deferent_Duct
+    3300022: Membranous_Urethra
+    3300024: Nvicular_Fossa
+    3300026: Prostate_Gland
+    3300028: Right_Bulbo_Urethral_Gland
+    3300030: Right_Corpora_Cavernosa
+    3300032: Right_Deferent_Duct
+    3300034: Right_Epididymis
+    3300036: Right_Root_Of_Penis_Crura
+    3300038: Right_Seminal_Gland
+    3300040: Right_Testis
+    3300042: Spongy_Urethra
+    4300000: Membranous_Urethra
+    4300002: Prostate_Gland
+    4300004: Left_Seminal_Gland
+    4300006: Left_Vas_Deferent_Duct
+    4300008: Left_Epididymis
+    4300010: Left_Testis
+    4300012: Right_Seminal_Gland
+    4300014: Right_Deferent_Duct
+    4300016: Right_Epididymis
+    4300018: Right_Testis
+    4300020: Left_Bulbo_Urethral_Gland
+    4300022: Right_Bulbo_Urethral_Gland
+    4300024: Bulbo_Urethral_Duct
+    4300026: Corpus_Spongiosum
+    4300028: Spongy_Urethra
+    4300030: Nvicular_Fossa
+    4300032: Glans_Penis
+    4300034: External_Urethral_Orifice
+    4300036: Right_Root_Of_Penis_Crura
+    4300038: Right_Corpora_Cavernosa
+    4300040: Left_Root_Of_Penis_Crura
+    4300042: Left_Corpora_Cavernosa
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
